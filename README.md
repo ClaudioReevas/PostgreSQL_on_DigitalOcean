@@ -56,7 +56,6 @@ Si no tienes una cuenta de DigitalOcean te recomiendo utilizar mi enlace de refe
 ![Menu Servers>Create>Server...](do_droplet_create.png).
 
 3.- Selecciona del menú **Distributions** la opción **CentOS**
-![Menu Servers>Create>Server...](do_droplet_create.png).
 
 4.- En la opción **Choose a size** selecciona el tamaño del hardware de tu **Droplet** basado en los recursos que necesites dedicados. Se cuidadoso ya que se generan cargos por el uso implicando directamente un precio, si estás solamente probando te aconsejamos seleccionar el más pequeño y de menor costo.
 
